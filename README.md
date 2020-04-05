@@ -1,1 +1,3 @@
-# website_templates
+# Website Templates
+
+Repository for storing useful website templates.
